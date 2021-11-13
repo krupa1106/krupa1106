@@ -1,4 +1,9 @@
-### Hi there 👋
+[![linkedin badge](https://img.shields.io/badge/Akanksha_Singh-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/sai-krupa-peraka-69a116103/)
+[![twitter badge](https://img.shields.io/badge/@akacodegenie-30302f?style=flat&logo=twitter)](https://twitter.com/Kaadhipakoda)
+
+
+
+### Hi People 👋
 
 <!--
 **krupa1106/krupa1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
