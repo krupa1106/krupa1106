@@ -16,4 +16,5 @@ Hi there 👋
 - 💬 Ask me about anything
 - 📫 How to reach me: Twitter - @Kaadhipakoda
 - 😄 Pronouns: He/Him
+- 😔 I can not share my work which is mostly on Private repo's
 - ⚡ Fun fact: I am a Photographer and financial strategic writer. Find my blogs on my [Blogspot](https://t.co/JtxyefMfTv?amp=1) and [Instagram](https://www.instagram.com/kadhipakora/) 
