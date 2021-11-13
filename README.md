@@ -1,5 +1,5 @@
-[![linkedin badge](https://img.shields.io/badge/Akanksha_Singh-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/sai-krupa-peraka-69a116103/)
-[![twitter badge](https://img.shields.io/badge/@akacodegenie-30302f?style=flat&logo=twitter)](https://twitter.com/Kaadhipakoda)
+[![linkedin badge](https://img.shields.io/badge/Sai Krupa-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/sai-krupa-peraka-69a116103/)
+[![twitter badge](https://img.shields.io/badge/@Sai Krupa-30302f?style=flat&logo=twitter)](https://twitter.com/Kaadhipakoda)
 
 
 
