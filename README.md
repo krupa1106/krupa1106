@@ -5,9 +5,6 @@
 
 ### Hi People 👋
 
-
-
-Hi there 👋
 - 🔭 I’m currently working on software Automation project mainly using cypress and selenium
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on prediction and forecasting projects to learn and explore
